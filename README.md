@@ -12,7 +12,7 @@ It combines **Next.js** for the frontend, **FastAPI** for AI & ML-powered backen
 - Stored and handled via **Next.js API routes**
 - **Visual dashboards** with bar graphs, emojis, and progress loaders
 
-### 🤖 AI-Powered Financial Advice
+### 🤖 AI-Powered Financial Advice.
 - Personalized recommendations based on spending habits
 - Uses **OpenRouter API** with **DeepSeek model** for insights
 
